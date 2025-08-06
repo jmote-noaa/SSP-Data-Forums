@@ -1,4 +1,4 @@
-![UBC JupyterDays 2020](img/jupyterdays.png)
+![SSP Data Forums](img/coverslide.png)
 
 # UBC Jupyter Days
 
