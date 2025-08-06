@@ -1,18 +1,18 @@
 # Code of Conduct
 
 ## Introduction
-For Jupyterdays, we are committed to creating a friendly and respectful place for learning, teaching and contributing. 
+For the Data Forums, we are committed to creating a friendly and respectful place for learning, teaching and contributing. 
 All participants in our course and communications are expected to show respect and courtesy to others.
 
-To make clear what is expected, everyone participating in Jupyterdays activities is required to conform to the Code of Conduct. 
-This Code of Conduct applies to all spaces managed by Jupyterdays including, but not limited to, class meetings, email communication, and online forums such as Slack and GitHub. The Jupyterdays organizing team are expected to assist with the enforcement of the Code of Conduct.
+To make clear what is expected, everyone participating in the Data Forums is required to conform to the Code of Conduct. 
+This Code of Conduct applies to all spaces managed by Data Forums including, but not limited to, online meetings, email communication, and any online forums such as Slack and GitHub. The Data Forums organizing team are expected to assist with the enforcement of the Code of Conduct.
 
-The Jupyterdays organizing team are responsible for enforcing the Code of Conduct. All reports will be reviewed by the Jupyterdays organizing team and will be kept confidential.
+The Data Forums organizing team are responsible for enforcing the Code of Conduct. All reports will be reviewed by the Data Forums organizing team and will be kept confidential.
 
-## The Jupyterdays Code of Conduct
-For Jupyterdays, we are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our speakers or participants or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
+## The Data Forums Code of Conduct
+For the Data Forums, we are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our speakers or participants or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
 
-Everyone who participates in the Jupyterdays activities is required to conform to this Code of Conduct. It applies to all spaces managed by Jupyterdays including, but not limited to, class meetings, email communication, and online forums such as Slack and GitHub. The Jupyterdays organizing team are expected to assist with the enforcement of the Code of Conduct. 
+Everyone who participates in the Data Forums is required to conform to this Code of Conduct. It applies to all spaces managed by Jupyterdays including, but not limited to, online meetings, email communication, and online forums such as Slack and GitHub. The Data Forums organizing team are expected to assist with the enforcement of the Code of Conduct. 
 
 ### Expected Behavior
 
@@ -48,15 +48,15 @@ publication of private communication without consent
 
 ### Consequences of Unacceptable Behavior
 
-Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Jupyterdays events and platforms, either 
-online or in-person. If a participant engages in behavior that violates this code of conduct, the teaching team may warn the offender and or engage the Jupyterdays 
+Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Data Forums events and platforms, either 
+online or in-person. If a participant engages in behavior that violates this code of conduct, the teaching team may warn the offender and or engage the Data Forums
 organizing team to investigate the Code of Conduct violation and impose appropriate sanctions.
 
 ## Incident Reporting Guidelines
 
-If someone violates the Code of Conduct during a Jupyterdays event or in an online space outside of organised events, we ask that you report it to the Jupyterdays 
-organizing team. The current Jupyterdays organizing team is Patrick Walls, Warren Code and Tiffany Timbers. An email to tiffany.timbers@stat.ubc.ca will be seen by
-Tiffany Timbers. To report a Jupyterdays code of conduct violation that will not be seen by Tiffany Timbers, an alternative contact person is Warren Code. His email is warcode@science.ubc.ca.
+If someone violates the Code of Conduct during a Jupyterdays event or in an online space outside of organised events, we ask that you report it to the Data Forums
+organizing team. The current Jupyterdays organizing team is Jonathon Mote, Kyle Metta, Katie Fillingham, and Alison Krepp. An email to jonathon.mote@noaa.gov will be seen by
+Jonathon Mote.
 
 ## Attribution 
 - Derived from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
