@@ -2,7 +2,7 @@ format: jb-book
 root: intro
 
 chapters:
-  - file: about
+  - file: index
   - file: schedule
   - file: notebooks/notebook1
   - file: notebooks/notebook2
