@@ -1,4 +1,4 @@
-# UBC JupyterDays 2020
+  # UBC JupyterDays 2020
 
 ![build](https://github.com/UBC-DSCI/jupyterdays/workflows/build-and-deploy/badge.svg?branch=master)
 
