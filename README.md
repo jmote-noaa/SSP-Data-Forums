@@ -1,16 +1,16 @@
-  # UBC JupyterDays 2020
+![SSP Data Forums](img/coverslide.png)
 
-![build](https://github.com/UBC-DSCI/jupyterdays/workflows/build-and-deploy/badge.svg?branch=master)
+# SSP Data Forums
 
-![UBC JupyterDays 2020](jupyterdays/img/jupyterdays.png)
+More intro language needed.
 
- [Jupyter notebook](https://jupyter.org) is a web application for producing computational narratives: a notebook in the browser which runs code and renders text, mathematical notation, images and videos. Jupyter notebook is a powerful open source tool for scientific computing, reproducible research and teaching data science.
+A key part of the Data Forums is the use of [Jupyter notebooks](https://jupyter.org), a web application for producing computational narratives  Jupyter Notebooks are browser applications which run code and renders text, mathematical notation, images and videos. Jupyter notebook is a powerful open source tool for scientific computing, reproducible research and teaching data science.
 
 Come join other instructors, researchers and students at UBC to share their Jupyter experiences and to learn about new Jupyter tools!
 
 ## Registration
 
-All workshops and presentations are hosted on Zoom. Please register at [UBC CTLT Events](https://events.ctlt.ubc.ca) to join us!
+The Data Forums will be hosted on Vimeo.  Please register at [Link Forthcoming]((https://library.noaa.gov/seminars) to join us!
 
 ## Instructor Instructions
 
